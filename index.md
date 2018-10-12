@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## About
+EE Toolkit is a collection of electrical engineering and basic electronics calculators/converters. I wanted to make an app that would be helpful, quick, and easy to calculate common equations and conversions. Hope you like it!
 
-You can use the [editor on GitHub](https://github.com/Commander242/OhmsLawAboutPage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Email
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you found a glitch/calculation error, or if you have any suggestions for improvements or new features, please email me at **@gmail.com**
 
-### Markdown
+## App Version
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Latest App Version: 0.0.1
+_Released: 10/xx/18_
+If this doesn't match with what is showing up on the settings page, you can go to the App Store and update it!
 
-```markdown
-Syntax highlighted code block
+You can also leave a review on the [App Store](https://www.apple.com/ios/app-store/).
 
-# Header 1
-## Header 2
-### Header 3
+## EE Toolkit Calculators/Converters:
 
-- Bulleted
-- List
+- Ohms Law Calculator
+- Voltage Divider Calculator
+- Parallel and Series Resistors Calculator
+- Resistor Color Codes Converter
+- RC Circuit Calculator
+- Decimal/Binary/Hex/Octal Numbers Converter
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Upcoming Features:
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Commander242/OhmsLawAboutPage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 5-band resistor colors
