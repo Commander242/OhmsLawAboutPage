@@ -7,10 +7,9 @@ If you found a glitch/calculation error, or if you have any suggestions for impr
 
 ## App Version
 
-Latest App Version: 0.0.1
-_Released: 10/xx/18_
-If this doesn't match with what is showing up on the settings page, you can go to the App Store and update it!
-
+Latest App Version: 0.0.1  
+_Released: 10/xx/18_  
+If this doesn't match with what is showing up on the settings page, you can go to the App Store and update it!  
 You can also leave a review on the [App Store](https://www.apple.com/ios/app-store/).
 
 ## EE Toolkit Calculators/Converters:
