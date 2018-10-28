@@ -8,9 +8,9 @@ If you found a bug or a calculation error, have any suggestions for improvements
 ## App Version
 
 Latest App Version: 1.0.0  
-_Released: TBA_  
+_Released: 10/28/18_  
 If this doesn't match with what is showing up on the settings page, you can go to the App Store and update it!  
-You can also leave a review on the [App Store](https://www.apple.com/ios/app-store/).
+You can also leave a review on the [App Store](https://itunes.apple.com/us/app/ee-number-cruncher/id1440407780?ls=1&mt=8).
 
 ## EE Number Cruncher Calculators/Converters:
 
