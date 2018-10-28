@@ -3,7 +3,7 @@ EE Number Cruncher is a collection of electrical engineering and basic electroni
 
 ## Email
 
-If you found a bug/calculation error, or if you have any suggestions for improvements or new features, please email me at **EENumberCruncher@gmail.com**
+If you found a bug or a calculation error, have any suggestions for improvements/new features, or have any other questions, please email me at **EENumberCruncher@gmail.com**
 
 ## App Version
 
